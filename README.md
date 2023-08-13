@@ -5,7 +5,7 @@ Just a final year Information Systems student looking to expand his technical sk
 
 🌱 I'm currently exploring the functional programming paradigm using Python. 
 
-💬 Ask me about football (soccer for the uneducated), film box office statistics and games!
+💬 Ask me about football (soccer for the uneducated 😤), film box office statistics and games!
 
 📫 How to reach me: ryan.moyo@student.curtin.edu.au
 
