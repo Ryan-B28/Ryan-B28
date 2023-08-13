@@ -2,6 +2,7 @@
 
 Just a final year Information Systems student looking to expand his technical skills utilising languages such as Python, SQL and PowerShell.
 
+
 🌱 I'm currently exploring the function programming paradigm using Python. 
 
 💬 Ask me about football (soccer for the uneducated), film box office statistics and games!
